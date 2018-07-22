@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vikash Choudhary"
 title_separator          : "-"
 name                     : &name "Vikash Choudhary"
-description              : &description "personal description"
+description              : &description "Research Engineer at Institut de la Vision"
 url                      : https://cvikash.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cvikash.github.io"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Vikash Choudhary"
+  avatar           : "vikash.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "vikash7991vikki@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "cvikash"
   google_plus      :
   keybase          :
   instagram        :
