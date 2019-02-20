@@ -12,20 +12,20 @@ redirect_from:
 Education
 ======
 * B.Tech. in Biological Sciences & Bioengineering, Indian Institute of Technology Kanpur (IITK), India, 2017
-* M.S. in Jekyll, Github University, 2014
+* Msc in Biomedical Engineering, Paris Descartes University and ParisTech, Paris, France, expected in 2020
 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2016: Research Internship
+  * Ruhr University Bochum, Germany
+  * Duties included: Modelling, 3D Printing, Behavioral paradigms, Molecular Biology techniques
+  * Supervisor: Professor Dr. h.c rer. net Onur Gunturkun
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017: Research Assistant
+  * University of Antwerp, Belgium
+  * Duties included: Visual stimulation techniques in MRI
+  * Supervisor: Professor Georgios Keliris
   
 Skills
 ======
@@ -36,24 +36,4 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
