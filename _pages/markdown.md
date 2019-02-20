@@ -7,6 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
+---
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
@@ -199,4 +200,5 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 ### Variable Tag
 
-This allows you to denote <var>variables</var>.
+This allows you to denote <var>variables</var>. 
+---
