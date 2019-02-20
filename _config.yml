@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vikash Choudhary"
 title_separator          : "-"
 name                     : &name "Vikash Choudhary"
-description              : &description "Research Engineer at Institut de la Vision"
+description              : &description "Master Student of Bioemdical Engineering"
 url                      : https://cvikash.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cvikash.github.io"
@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Vikash Choudhary"
   avatar           : "Vikash.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "To know more"
+  location         : "https://www.google.com/maps/place/Cit%C3%A9+Internationale+Universitaire+de+Paris/@48.8200762,2.3384523,15z/data=!4m5!3m4!1s0x0:0x1c4282bc491b8270!8m2!3d48.8200762!4d2.3384523"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : ""
   email            : "vikash7991vikki@gmail.com"
   uri              :
   bitbucket        :
@@ -92,16 +92,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cvikash"
+  github           : "https://github.com/cvikash/cvikash.github.io"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :"https://in.linkedin.com/in/vikash-choudhary-b54a818b"
+  orcid            :"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :"https://stackoverflow.com/users/9641742/vikash-choudhary"
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
