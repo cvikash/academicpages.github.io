@@ -27,13 +27,19 @@ Work experience
   * Duties included: Visual stimulation techniques in MRI
   * Supervisor: Professor Georgios Keliris
   
+* 2018: Research Assistant
+  * Pasteur Institute, Paris, France
+  * Duties included: Visuo-tactile multisensory integration 
+  * Supervisor: Dr. Folorent Haiss
+  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software tools
+  * AutoCAD, Autodesk, MRIcron, Adobe Photoshop, COPA, Solid works, Amira, Mathematica, Blender, XPP
+* Programming
+  * C
+  * C++
+  * Python/R/Java
+* OS: Windows, Linux, Mac
 
 
