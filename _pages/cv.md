@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Tech. in Biological Sciences & Bioengineering, Indian Institute of Technology Kanpur (IITK), India, 2017
-* Msc in Biomedical Engineering, Paris Descartes University and ParisTech, Paris, France, expected in 2020
+* Msc in Biomedical Engineering, ESPCI and Paris Descartes University, Paris, France, expected in 2020
 
 
 Work experience
