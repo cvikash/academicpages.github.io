@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+title: "Alterations of specific cortical GABAergic circuits underlie abnormal network activity in a mouse model of Down syndrome"
+collection: Elife
+permalink: /publication/2020-08-12-
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
